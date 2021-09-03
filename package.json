@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scraper2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riketscience/scraper.git"
+  },
+  "keywords": [
+    "scrape",
+    "nft",
+    "rarity",
+    "another"
+  ],
+  "author": "rik palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riketscience/scraper/issues"
+  },
+  "homepage": "https://github.com/riketscience/scraper#readme"
+}
